@@ -1,0 +1,6 @@
+Start Log Codespace build pappyUtils
+Build Date.Time: 2024-02-18.17:52:00
+BEFORE CD
+BEFORE curl command
+BEFORE remove file
+End of Build Script File

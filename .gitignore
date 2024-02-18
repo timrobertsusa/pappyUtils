@@ -194,6 +194,8 @@ PublishScripts/
 
 # NuGet Packages
 *.nupkg
+#NuGet Package Config - with Keys
+nuget.config
 # NuGet Symbol Packages
 *.snupkg
 # The packages folder can be ignored because of Package Restore
